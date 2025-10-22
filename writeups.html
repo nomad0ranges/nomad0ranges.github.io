@@ -1,0 +1,16 @@
+---
+layout: default
+title: Write-ups
+permalink: /view-posts
+---
+
+<h1>&gt; Current Write-ups</h1>
+
+{% for post in site.posts %}
+<div class="project-card">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="post-meta">Date: {{ post.date | date: "%Y-%m-%d" }}</p>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+    <a href="{{ post.url | relative_url }}" class="cta-button">Read Post</a>
+</div>
+{% endfor %}
