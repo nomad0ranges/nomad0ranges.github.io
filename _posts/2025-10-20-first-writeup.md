@@ -9,10 +9,9 @@ categories: [Test]
 
 Hello world
 
-<span style="color: grey;">
+
 ```python
 
 print("Hello World")
 
 ```
-</span>

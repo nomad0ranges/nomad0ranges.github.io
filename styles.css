@@ -118,7 +118,7 @@ nav ul li a:hover {
 a{
     color: var(--accent-color);
 }
-.project-card
+
 /* Posts format */
 .post-format {
     background-color: #161b22; /* Slightly lighter dark background for cards */
