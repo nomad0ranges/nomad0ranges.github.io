@@ -1,12 +1,11 @@
 ---
 layout: post
 title: My First Post
-date: 2025-10-20
-categories: 
+date: 2025-10-20 10:00:00 -0400
+categories: [test]
 ---
 
-# Welcome
-
+# Welcome Reader
 This is my first post on my blog. You may be wondering why I am making this blog? What will I post about? How often? 
 
 Those are all great questions reader! 
@@ -18,4 +17,5 @@ Those are all great questions reader!
 
 
 I hope you enjoy my blog!
+
 
