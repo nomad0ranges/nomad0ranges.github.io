@@ -2,11 +2,12 @@
 layout: post
 title: My First Post
 date: 2025-10-20 10:00:00 -0400
-categories: [test]
+author: nomad
+categories: [posts]
+permalink: /:categories/:title
 ---
 
-# Welcome Reader
-This is my first post on my blog. You may be wondering why I am making this blog? What will I post about? How often? 
+Welcome Reader! This is my first post on my blog. You may be wondering why I am making this blog? What will I post about? How often? 
 
 Those are all great questions reader! 
 

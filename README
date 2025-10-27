@@ -5,3 +5,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+Great guide on jekyll https://mademistakes.com/mastering-jekyll/how-to-link/
+
+Jekyll collections https://jekyllrb.com/docs/collections/ 
+
+
+Next update:
+- Selected highlight for navbar (https://jekyllrb.com/docs/step-by-step/08-blogging/)
+- Have a way to filter posts
+- Harden the site
+- code highlighting improvements

@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="{% link styles.css %}">
     <title >{{ page.title }} | nomad]</title>
 </head>
 <body>
     <header id="navbar">
         <nav>
-            <a href="/"><div class="logo">nomad0ranges</div></a>
+            <a href="{% link index.html%}"><div class="logo">nomad0ranges</div></a>
             <ul>
-                <li><a href="/">./Home</a></li>
-                <li><a href="/view-posts">./Write-ups</a></li>
-                <!-- <li><a href="#">./About</a></li> -->
+                <li><a href="{% link index.html%}">./Home</a></li>
+                <li><a href="{% link writeups.html %}">./Write-ups</a></li>
+                <li><a href="{% link about.md %}">./About</a></li>
             </ul>
         </nav>
     </header>
